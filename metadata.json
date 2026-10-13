@@ -1,0 +1,6 @@
+{
+  "name": "Bengaluru Battlegrounds: Banashankari BDA Complex",
+  "description": "Tactical 3D Battle Royale set in Bengaluru's Banashankari BDA Complex with shrinking safe zone mechanics, TPP/FPP camera switching, tactical AI bots, PUBG-style HUD, Zombie & TDM modes, and cross-platform voice integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
